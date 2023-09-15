@@ -1,0 +1,12 @@
+{
+  "name": "fullline-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./styles/input.css -o ./dist/output.css --watch"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
